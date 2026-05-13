@@ -70,7 +70,6 @@
 <h2 align="left">🌟 My Projects</h2>
 
 <p align="left">coming soon</p>
-###
 
 <h2 align="left">📫 My Socials</h2>
 
